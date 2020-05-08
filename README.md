@@ -16,16 +16,18 @@
 
 ## Import Module
 <br>
-*PyQT 5.11.3   	
-*PyQt tools 5.13.0.1.5 
-*Pytube3 9.6.4 v	
-*SimpleJson 3.17.0 v
-*Sqllite3 3.11.0 v
+
+- PyQT 5.11.3   	
+- PyQt tools 5.13.0.1.5 
+- Pytube3 9.6.4 v	
+- SimpleJson 3.17.0 v
+- Sqllite3 3.11.0 v
 ## ENVIROMENT
 <br>
-*Python 3.6.2
-*Window 10
-*Atom
+
+- Python 3.6.2
+- Window 10
+- Atom
 
 
 ### Reference
