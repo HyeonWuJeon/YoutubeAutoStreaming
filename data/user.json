@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "hyeonwu",
+    "password": "12345",
+    "email": "yusa2@naver.com"
+  },
+
+  {
+    "id": 2,
+    "name": "irene",
+    "password": "12345",
+    "email": "irene@naver.com"
+  },
+
+  {
+    "id": 3,
+    "name": "selgi",
+    "password": "12345",
+    "email": "selgi@naver.com"
+  },
+
+  {
+    "id": 4,
+    "name": "park",
+    "password" : "12345",
+    "email": "bts@naver.com"
+  }
+]
